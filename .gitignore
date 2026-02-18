@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# CSV files
+*.csv
+
+# macOS system files
+.DS_Store
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
